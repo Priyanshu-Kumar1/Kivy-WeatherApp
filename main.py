@@ -18,7 +18,7 @@ ScreenManager:
 
 <MainUI>:
 	name: 'MainUI'
-	on_enter: print(rg)
+	
 	
 	RelativeLayout:
 		canvas:
